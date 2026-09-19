@@ -34,7 +34,7 @@ local function saveKeySession()
 end
 
 if isKeyValid() then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/doushengg/FREE/refs/heads/main/ZvX.lua'))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/KingSoloooNeverDie/ScriptOverPower/refs/heads/main/V3.lua"))()
 	return
 end
 
